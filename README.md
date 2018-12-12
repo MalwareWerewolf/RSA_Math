@@ -5,6 +5,7 @@ The RSA_Math software reproduces the RSA algorithm logic, this process consists 
 * Clone this repository https://github.com/Cramenorn/RSA_Math.git
 * Install visual studio https://visualstudio.microsoft.com/.
 * From visual studio installer, you must install Desktop Application C++ component.
+* Open RSA_Math.sln file.
 
 # Built with
 * C++
