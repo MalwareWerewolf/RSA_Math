@@ -1,4 +1,0 @@
-﻿  stdafx.cpp
-  RSA_Math.cpp
-c:\users\home\source\repos\rsa_math\rsa_math\functions.h(14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-  RSA_Math.vcxproj -> c:\Users\HOME\source\repos\RSA_Math\Debug\RSA_Math.exe
